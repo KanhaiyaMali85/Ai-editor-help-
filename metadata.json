@@ -1,0 +1,8 @@
+{
+  "name": "AI Editor Tools Guide",
+  "description": "A comprehensive guide and comparison tool for content creators, designers, and editors to find, compare, and recommend AI-powered editing tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
